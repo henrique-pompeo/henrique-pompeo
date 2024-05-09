@@ -1,30 +1,46 @@
 
-# Henrique Pompeo Modesto - Android Developer | Systems Analyst
-
-## Profile
-
-- **Languages:** English and Portuguese
-- **Additional Information:** Person with a disability (PwD): Wheelchair user
-
-Located in Ilha Solteira, São Paulo, Brazil
+# Henrique Pompeo Modesto - Android Developer
 
 ## About Me
 
-I am a dedicated Android developer and systems analyst with extensive experience in native Android development using Kotlin and Java. With a focus on the financial sector, I have worked on various projects involving mobile app development, utilizing agile methodologies such as Scrum and Kanban.
+🌍 Ilha Solteira, São Paulo, Brasil
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/pompeoHenrique#3353) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/henrique-pompeo-modesto-861a9074)
+![LinkedIn](https://img.icons8.com/color/20/000000/linkedin.png)  [LinkedIn](https://www.linkedin.com/in/henriquepompeo-modesto-861a9074)
+
+![Discord](https://img.icons8.com/color/20/000000/discord-logo.png)  [Discord](https://www.discordapp.com/users/565002736945594369)
+
+---
+
+## Summary
+
+🇧🇷 Sou um Desenvolvedor Android com foco principal no setor financeiro. Utilizo metodologias ágeis como Scrum e Kanban em meus processos de desenvolvimento, garantindo a entrega de soluções eficientes e de alta qualidade.
+
+🇬🇧 I am an Android Developer primarily focused on the financial sector. I employ agile methodologies such as Scrum and Kanban in my development processes, ensuring the delivery of efficient, high-quality solutions.
+
+---
 
 ## Skills
 
-Kotlin, Java, MVVM, Clean Architecture, Dependency Injection, Coroutines, Unit Testing, UI Testing, Multimodule, Accessibility, Analytics, SOLID, Jetpack Navigation
+Android Development, Kotlin, Java, System Analysis, Dependency Injection, Coroutines, MVVM, Clean Architecture, Unit Tests, UI Tests, Multimodule, Accessibility, Analytics
+
+---
 
 ## Experience
 
-I have been involved in software development for over a decade, starting with freelance projects where I developed and maintained systems for personal and business control. Subsequently, I joined AnimallTAG, where I worked as a Systems Development Analyst, focusing on livestock-related systems for Android and Windows platforms. Later, at CI&T, I've contributed to multiple projects in banking and finance sectors, gaining diverse experiences. Responsibilities include native Android app development, mentoring, incident investigation, and code maintenance. Additionally, I've enhanced functionalities, resolved bugs, and conducted testing. I've also supported diversity and inclusion initiatives.
+🇧🇷 Comecei minha carreira fornecendo serviços de internet comunitária. Posteriormente, desenvolvi sistemas para gerenciamento de pecuária e identificação animal (RFID). Também desenvolvi sistemas para gestão pessoal e empresarial como freelancer. Atualmente, trabalho em vários projetos como Desenvolvedor Android, onde implemento recursos para aplicativos Android nativos. Minhas responsabilidades incluem desde a investigação de incidentes até refinamentos técnicos, manutenção e revisão de código. Também tenho a oportunidade de orientar e formar novos membros de equipe.
+
+🇬🇧 I started my career providing community internet services. Later, I developed systems for livestock management and animal identification (RFID). I also developed systems for personal and business management as a freelancer. Currently, I work on several projects as an Android Developer, implementing features for native Android applications. My responsibilities range from incident investigation to technical refinements, code maintenance, and review. I also get the opportunity to mentor and train new team members.
+
+---
 
 ## Education
 
-- **Bachelor's Degree:** Technology in Analysis and Systems Development, Faculdades Integradas Stella Maris de Andradina (2011 - 2013)
+🇧🇷 **Faculdades Integradas Stella Maris de Andradina** - Tecnologia em Análise e Desenvolvimento de Sistemas, 2011 - 2013
+
+🇬🇧 **Faculdades Integradas Stella Maris de Andradina** - Technology in Analysis and Systems Development, 2011 - 2013
 
 ---
-[![](https://visitcount.itsvg.in/api?id=henrique-pompeo&icon=7&color=1)](https://visitcount.itsvg.in)
+
+🇧🇷 Pessoa com deficiência (PCD): Cadeirante
+
+🇬🇧 Person with a disability (PwD): Wheelchair user
